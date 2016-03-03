@@ -1,3 +1,13 @@
+#
+# Inquire
+#
+
+/lib/
+
+#
+# Node
+#
+
 # Logs
 logs
 *.log
